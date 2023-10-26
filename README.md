@@ -6,9 +6,9 @@
 <br>
 
 ### 💻 강의 목록
-  - [`인프런 - 백기선: 스프링 기반 REST API 개발`](https://www.inflearn.com/course/spring_rest-api)
+  - [`인프런 - 백기선 : 스프링 기반 REST API 개발`](https://www.inflearn.com/course/spring_rest-api)
 
-  - [`인프런 - Vue.js 중급 강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex`](https://www.inflearn.com/course/vue-pwa-vue-js-%EC%A4%91%EA%B8%89)
+  - [`인프런 - 장기효(캡틴판교) : Vue.js 중급 강좌 - 웹앱 제작으로 배워보는 Vue.js, ES6, Vuex`](https://www.inflearn.com/course/vue-pwa-vue-js-%EC%A4%91%EA%B8%89)
 
 <br>
 
