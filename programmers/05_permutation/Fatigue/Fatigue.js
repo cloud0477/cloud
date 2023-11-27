@@ -26,6 +26,7 @@ const getPermutation = (arr,selectNum)=>{
     const results = [];
     if(selectNum === 1){
         const results = arr.map(item=>[item]);
+        console.log(results);
         return results;
     }
     
